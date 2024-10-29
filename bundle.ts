@@ -32,7 +32,7 @@ await esbuild.build({
   },
   plugins: denoPlugins(),
   entryPoints: ['./main.ts'],
-  outfile: './dist/index.js',
+  outfile: './dist/linear-create-branch.user.js',
   bundle: true,
   format: 'cjs',
 })

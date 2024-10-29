@@ -3,11 +3,12 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://linear.app/*/issue/*/*
 // @grant       none
-// @version     0.0.1
+// @version     3d979af
 // @author      -
-// @description 2024-10-29T18:39:02.604Z
+// @description 2024-10-29T19:05:29.587Z
 // @icon        https://static.linear.app/client/assets/favicon.hash-Ch-xRaRR.svg
-// @update      TODO
+// @updateURL   https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
+// @downloadURL https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
 // ==/UserScript==
 
 // https://jsr.io/@mesqueeb/case-anything/3.1.0/src/utils.ts
