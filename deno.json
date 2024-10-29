@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "build": "deno run --allow-all bundle.ts",
+    "dev": "NODE_ENV=dev deno run --watch=main.ts --allow-all bundle.ts"
+  },
+  "imports": {},
+  "compilerOptions": {
+    "lib": ["deno.window", "dom"]
+  }
+}
