@@ -1,6 +1,6 @@
 import { kebabCase } from 'jsr:@mesqueeb/case-anything'
 
-const logID = '🔵'
+const logID = '⚪️'
 const maxLength = 50
 const iconSelector = '[aria-label="Copy branch name"]'
 const issueID = location?.href.split('/')[5]
