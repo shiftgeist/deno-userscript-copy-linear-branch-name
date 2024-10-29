@@ -3,9 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://linear.app/*/issue/*/*
 // @grant       none
-// @version     3d979af
+// @version     6f0999d
 // @author      -
-// @description 2024-10-29T19:05:29.587Z
+// @description 2024-10-29T19:17:21.352Z
 // @icon        https://static.linear.app/client/assets/favicon.hash-Ch-xRaRR.svg
 // @updateURL   https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
 // @downloadURL https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
@@ -74,7 +74,7 @@ function kebabCase(string, options) {
 }
 
 // main.ts
-var logID = "\u{1F535}";
+var logID = "\u26AA\uFE0F";
 var maxLength = 50;
 var iconSelector = '[aria-label="Copy branch name"]';
 var issueID = location?.href.split("/")[5];
