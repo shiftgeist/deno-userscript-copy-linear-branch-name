@@ -5,10 +5,10 @@
 // @grant       none
 // @version     0.0.2
 // @author      -
-// @description 2024-10-29T19:24:24.923Z
+// @description 2024-10-29T19:27:45.760Z
 // @icon        https://static.linear.app/client/assets/favicon.hash-Ch-xRaRR.svg
-// @updateURL   https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
-// @downloadURL https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
+// @updateURL   https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
+// @downloadURL https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
 // ==/UserScript==
 
 // https://jsr.io/@mesqueeb/case-anything/3.1.0/src/utils.ts
