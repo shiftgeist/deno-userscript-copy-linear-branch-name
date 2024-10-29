@@ -30,7 +30,7 @@ jobs:
         shell: bash
         run: |
           git add .
-          git commit -m "ci: update versions in staging.yaml to ${{ env.APP_VERSION }}"
+          git commit -m "ci: update script to ${{ env.APP_VERSION }}"
           for attempt in {1..3}; do
             git push && break || git pull --rebase
           done
