@@ -3,9 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://linear.app/*/issue/*/*
 // @grant       none
-// @version     0.0.2
+// @version     0.0.3
 // @author      -
-// @description 2024-10-29T19:28:37.324Z
+// @description 2024-10-29T19:29:34.018Z
 // @icon        https://static.linear.app/client/assets/favicon.hash-Ch-xRaRR.svg
 // @updateURL   https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
 // @downloadURL https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
