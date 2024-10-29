@@ -8,7 +8,7 @@ When clicking on the branch icon in linear: Copy a `git checkout -b $name` with 
 
 ## Install
 
-https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/linear-create-branch.user.js
+https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
 
 ## Branch name format
 

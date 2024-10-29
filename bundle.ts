@@ -16,8 +16,8 @@ await esbuild.build({
 // @author      -
 // @description ${now.toISOString()}
 // @icon        https://static.linear.app/client/assets/favicon.hash-Ch-xRaRR.svg
-// @updateURL   https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
-// @downloadURL https://raw.githubusercontent.com/shiftgeist/deno-userscript-copy-linear-branch-name/refs/heads/main/dist/index.js
+// @updateURL   https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
+// @downloadURL https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
 // ==/UserScript==`,
   },
   plugins: denoPlugins(),
