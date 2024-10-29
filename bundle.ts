@@ -40,9 +40,9 @@ await esbuild.build({
 const dev = Deno.env.get('NODE_ENV') === 'dev'
 
 if (dev) {
-  Deno.serve(req => {
-    return serveDir(req, {
+  Deno.serve(req =>
+    serveDir(req, {
       fsRoot: './dist',
     })
-  })
+  )
 }
