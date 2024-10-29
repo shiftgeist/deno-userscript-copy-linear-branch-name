@@ -5,7 +5,7 @@
 // @grant       none
 // @version     0.0.2
 // @author      -
-// @description 2024-10-29T19:27:45.760Z
+// @description 2024-10-29T19:28:37.324Z
 // @icon        https://static.linear.app/client/assets/favicon.hash-Ch-xRaRR.svg
 // @updateURL   https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
 // @downloadURL https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
@@ -74,7 +74,7 @@ function kebabCase(string, options) {
 }
 
 // main.ts
-var logID = "\u{1F535}";
+var logID = "\u26AA\uFE0F";
 var maxLength = 50;
 var iconSelector = '[aria-label="Copy branch name"]';
 var issueID = location?.href.split("/")[5];
