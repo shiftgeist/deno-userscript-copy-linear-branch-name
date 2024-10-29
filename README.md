@@ -17,3 +17,7 @@ $TYPE-$ISSUE_ID-$TITLE
 ```
 
 Type is currently set strictly to `feat`.
+
+## Dev Hints
+
+Don't forget to update version in `deno.json` for auto updates.
