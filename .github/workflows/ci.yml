@@ -20,6 +20,12 @@ jobs:
       - name: Build
         run: deno task build
 
+      - name: Configure Git
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Push to repo
         shell: bash
         run: |
