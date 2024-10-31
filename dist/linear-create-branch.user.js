@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        Copy Linear.app branch name
 // @namespace   Violentmonkey Scripts
-// @match       https://linear.app/*/issue/*/*
+// @match       https://linear.app/*
 // @grant       none
-// @version     0.0.3
+// @version     0.0.4
 // @author      -
-// @description 2024-10-29T19:29:34.018Z
+// @description 2024-10-31T15:10:44.540Z
 // @icon        https://static.linear.app/client/assets/favicon.hash-Ch-xRaRR.svg
 // @updateURL   https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
 // @downloadURL https://github.com/shiftgeist/linear-create-branch/raw/refs/heads/main/dist/linear-create-branch.user.js
