@@ -10,7 +10,7 @@ await esbuild.build({
     js: `// ==UserScript==
 // @name        Copy Linear.app branch name
 // @namespace   Violentmonkey Scripts
-// @match       https://linear.app/*/issue/*/*
+// @match       https://linear.app/*
 // @grant       none
 // @version     ${deno_json.version}
 // @author      -
